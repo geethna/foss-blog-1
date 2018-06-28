@@ -8,7 +8,9 @@ navigation: True
 <!-- < default -->
 <!-- The tag above means: insert everything in this file
 into the {body} of the default.hbs template -->
-
+<head>
+  <script src="//platform-api.sharethis.com/js/sharethis.js#property=5b3207ca9f6fe8001146b07c&product=sticky-share-buttons"></script>
+</head>
 <!-- The big featured header, it uses blog cover image as a BG if available -->
 <header class="site-header outer {% if page.cover or site.cover %}" style="background-image:  url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}">
     <div class="inner">
@@ -36,4 +38,6 @@ into the {body} of the default.hbs template -->
         </div>
 
     </div>
+     <!-- Social Media Plugin -->
+    <div class="sharethis-sticky-share-buttons"></div>
 </main>
