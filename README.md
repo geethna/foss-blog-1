@@ -29,7 +29,7 @@ This is a full-featured port of Ghost's default theme [Casper](https://github.co
 * Support for Disqus comments (not Ghost standard)
 
 
-## Getting Started
+## featured
 
 ### Deployment
 
