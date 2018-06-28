@@ -5,10 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
-
-# Website info
-title: FOSS-BlOG
+baseurl: /foss-blog-1/
 description: amfoss blogging platform
 cover: assets/images/blog-cover.jpg
 logo: assets/images/Foss@Amrita_Logo_Design.png
