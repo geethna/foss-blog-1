@@ -6,6 +6,9 @@ language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /foss-blog-1/
+
+# Website info
+title: FOSS-BlOG
 description: amfoss blogging platform
 cover: assets/images/blog-cover.jpg
 logo: assets/images/Foss@Amrita_Logo_Design.png
