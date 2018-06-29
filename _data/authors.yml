@@ -8,6 +8,17 @@ ghost:
   facebook: ghost
   twitter: tryghost
   cover: False
+gopavasanth:
+  username: Gopa Vasanth
+  name: Gopa Vasanth
+  location: London, UK
+  url_full: http://gopavasanth.wordpress.com/
+  url: gopavasanth.github.io/foss-blog/
+  bio: Hello!!
+  picture: assets/images/gopavasanth.jpg
+  facebook: Gopa.Vasanth
+  twitter: gopavasanth1999
+  cover: assets/images/India.jpg
 hannah:
   username: hannah
   name: Hannah Wolfe
