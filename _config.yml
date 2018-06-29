@@ -66,7 +66,7 @@ feed:
 safe: False
 lsi: False
 username: jekyller
-repo: foss-blog
+repo: foss-blog-1
 branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
