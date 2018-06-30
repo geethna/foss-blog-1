@@ -11,7 +11,7 @@ baseurl: /foss-blog-1/
 title: FOSS-BlOG
 description: amfoss blogging platform
 cover: assets/images/blog-cover.jpg
-logo: assets/images/Foss@Amrita_Logo_Design.png
+logo: assets/images/foss.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url:
