@@ -10,20 +10,20 @@ ghost:
   cover: False
 gopavasanth:
   username: Gopa Vasanth
-  name: Gopa Vasanth
-  location: London, UK
+  name: gopavasanth
+  location: Amritapuri, India
   url_full: http://gopavasanth.wordpress.com/
   url: gopavasanth.github.io/foss-blog/
   bio: Hello!!
-  picture: assets/images/gopavasanth.jpg
+  picture: assets/images/vasanth.jpg
   facebook: Gopa.Vasanth
   twitter: gopavasanth1999
-  cover: assets/images/India.jpg
-hannah:
-  username: hannah
-  name: Hannah Wolfe
-  location: London, UK
-  url_full: http://hannah.wf/
+  cover: False
+bhanuprakash:
+  username: bhanuprakashnani
+  name: Bhanu Prakash
+  location: Amritapuri, India
+  url_full: http://bhanuprakashnani.wordpress.com/
   url: hannah.wf
   bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
   picture: assets/images/hannah.jpg
