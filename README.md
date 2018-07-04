@@ -4,7 +4,7 @@
 [![Ruby](https://img.shields.io/badge/ruby-2.4.2-blue.svg?style=flat)](http://travis-ci.org/jekyller/jasper2)
 [![Jekyll](https://img.shields.io/badge/jekyll-3.6.2-blue.svg?style=flat)](http://travis-ci.org/jekyller/jasper2)
 
-This is a full-featured port of Ghost's default theme [Casper](https://github.com/tryghost/casper)
+This is a full-featured port of amfoss's theme [Casper](https://github.com/tryghost/casper)
 *v2.1.9* for [Jekyll](https://jekyllrb.com/) / [GitHub Pages](https://pages.github.com/).
 
 ## Live Demo
@@ -20,13 +20,13 @@ This is a full-featured port of Ghost's default theme [Casper](https://github.co
 * Full author information including: picture, bio, website, twitter, facebook, etc.
 * Tag description(s) and personalised covers (via `_data/tags.yml`)
 * Related posts view at the bottom of each post
-* All Ghost default pages: Author page(s), Tag page(s), About page(s), 404, etc.
+* All amfoss default pages: Author page(s), Tag page(s), About page(s), 404, etc.
 * Pagination (infinite scrolling or standard pagination, i.e. posts across multiple pages)
 * Atom Feeds by [Jekyll-feed](https://github.com/jekyll/jekyll-feed)
 * Toggleable subscribe button (requires an external service)
 * Code Syntax Highlight with [highlight.js](https://highlightjs.org/)
 * Support for Google Analytics tracking
-* Support for Disqus comments (not Ghost standard)
+* Support for Disqus comments (not amfoss standard)
 
 
 ## featured
@@ -94,13 +94,13 @@ Feel free pull-request your patches and fixes.
 ## Thanks
 
 
-Many thanks to the Ghost team for all the design work. Also many thanks to all contributors,
+Many thanks to the amfoss team for all the design work. Also many thanks to all contributors,
 that help keeping the project alive and updated :smile:
 
 
 ## Copyright & License
 
-Same licence as the one provided by Ghost's team. See Casper's theme [license](GHOST.txt).
+Same licence as the one provided by amfoss's team. See Casper's theme [license](amfoss.txt).
 
 Copyright (C) 2015-2018 - Released under the MIT License.
 
