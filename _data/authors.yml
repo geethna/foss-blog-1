@@ -8,8 +8,8 @@ ghost:
   facebook: ghost
   twitter: tryghost
   cover: False
-gopavasanth:
-  username: Gopa Vasanth
+GopaVasanth:
+  username: GopaVasanth
   name: gopavasanth
   location: Amritapuri, India
   url_full: http://gopavasanth.wordpress.com/
@@ -19,14 +19,13 @@ gopavasanth:
   facebook: Gopa.Vasanth
   twitter: gopavasanth1999
   cover: False
-bhanuprakash:
+bhanuprakashnani:
   username: bhanuprakashnani
-  name: Bhanu Prakash
+  name: BhanuPrakash
   location: Amritapuri, India
   url_full: http://bhanuprakashnani.wordpress.com/
   url: hannah.wf
   bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
-  picture: assets/images/hannah.jpg
+  picture: assets/images/
   facebook: False
   twitter: erisds
-  cover: assets/images/hannah-cover.jpg
