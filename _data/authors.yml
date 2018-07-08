@@ -1,12 +1,12 @@
-ghost:
-  username: ghost
-  name: Ghost
-  url_full: http://jekyller.github.io/jasper2/
-  url: jekyller.github.io/jasper2
-  bio: The professional publishing platform
-  picture: assets/images/ghost.png
-  facebook: ghost
-  twitter: tryghost
+manikishan:
+  username: manikishan
+  name: ManiKishan
+  url_full: http://manikishan.wordpress.com
+  url: manikishan.github.io
+  bio: The (re)Learner.
+  picture: assets/images/mani.jpg
+  facebook: manikishan.ghantasala
+  twitter: Manikishan@G
   cover: False
 GopaVasanth:
   username: GopaVasanth
@@ -24,8 +24,8 @@ bhanuprakashnani:
   name: BhanuPrakash
   location: Amritapuri, India
   url_full: http://bhanuprakashnani.wordpress.com/
-  url: hannah.wf
-  bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
+  url:
+  bio: DrupalLover, web-dev, Open-Source enthusiast.
   picture: assets/images/bhanu.jpeg
   facebook: False
-  twitter: erisds
+  twitter:
