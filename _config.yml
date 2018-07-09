@@ -76,6 +76,11 @@ source_url:  https://github.com/jekyller/jasper2/
 plugins:
   - jekyll-paginate
 
+algolia:
+  application_id: Z3WTM6TDJ5
+  index_name: amfoss
+  search_only_api_key: a1a3d079ca296478feb39e5ac3d03620
+
 exclude:
   - assets/css
   - node_modules
