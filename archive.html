@@ -16,3 +16,14 @@ permalink: /archive/
         {% if forloop.last %}</ul>{% endif %}
     {% endfor %}
 </section>
+
+<!-- Search Bar -->
+<h3>Search in Posts</h3>
+<div id="search-searchbar"></div>
+
+<div class="post-list" id="search-hits">
+</div>
+
+{% include algolia.html %}
+
+</div>

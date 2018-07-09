@@ -12,8 +12,8 @@ title: FOSS-BLOG
 description: amfoss blogging platform
 cover: assets/images/blog-cover.jpg
 logo: assets/images/fossblog_text_white.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+logo_dark: assets/images/FWNK.png
+favicon: assets/images/FWNK.png
 production_url:
 source_url:
 # Social info
@@ -75,6 +75,11 @@ source_url:  https://github.com/jekyller/jasper2/
 # Plugins
 plugins:
   - jekyll-paginate
+
+algolia:
+  application_id: Z3WTM6TDJ5
+  index_name: amfoss
+  search_only_api_key: a1a3d079ca296478feb39e5ac3d03620
 
 exclude:
   - assets/css
