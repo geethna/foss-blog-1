@@ -1,8 +1,22 @@
 ---
-layout: page
+layout: default
 title: Archive
 permalink: /archive/
+
 ---
+
+
+<!-- < default -->
+<!-- The tag above means: insert everything in this file
+into the {body} of the default.hbs template -->
+
+<!-- The big featured header, it uses blog cover image as a BG if available -->
+<header class="site-header outer">
+    <div class="inner">
+        {% include site-nav.html %}
+    </div>
+</header>
+
 <section class="archive-post-list">
   {% for post in site.posts %}
         {% assign currentDate = post.date | date: "%Y" %}
