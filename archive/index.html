@@ -1,11 +1,12 @@
 ---
 layout: page
-current: Archive
-title: Archive
+current: archive
+title: archive
 navigation: true
 class: page-template
 subclass: 'post page'
 ---
+
 <section class="archive-post-list">
   {% for post in site.posts %}
         {% assign currentDate = post.date | date: "%Y" %}
