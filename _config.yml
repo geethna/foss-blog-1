@@ -82,7 +82,6 @@ algolia:
   search_only_api_key: a1a3d079ca296478feb39e5ac3d03620
 
 exclude:
-  - assets/css
   - node_modules
   - vendor
   - .travis.yml
