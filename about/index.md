@@ -8,10 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-This website is a professional publishing platform designed for FOSS Club members.
+This website is the official blogging platform for amfoss. The website contains all blogs written and published by different members of the club. Made and maintained by the FOSS blog team, the website is capable of showing all the blogs written by different members in one place.
 
-What is FOSS?
-
-FOSS@Amrita is one of the most active student communities at Amrita University. We encourage, support and mentor students to improve their technical and social skills.
-
-If you need help with using this website please contact, the Foss Blog team.
+Any suggestions or queries regarding this website will be appreciated.
+Please visit the contact page for contacting us.
