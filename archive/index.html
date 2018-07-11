@@ -1,5 +1,4 @@
 ---
-
 layout: page
 current: archive
 title: archive
@@ -7,19 +6,6 @@ navigation: true
 class: page-template
 subclass: 'post page'
 ---
-
-
-
-<!-- < default -->
-<!-- The tag above means: insert everything in this file
-into the {body} of the default.hbs template -->
-
-<!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer">
-    <div class="inner">
-        {% include site-nav.html %}
-    </div>
-</header>
 
 <section class="archive-post-list">
   {% for post in site.posts %}
@@ -45,6 +31,3 @@ into the {body} of the default.hbs template -->
 {% include algolia.html %}
 
 </div>
-\
-<!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->
-{% include page-scripts.html %}
