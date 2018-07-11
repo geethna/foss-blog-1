@@ -112,6 +112,7 @@ body {
     color: #fff;
     background: color(var(--darkgrey) l(-5%)) no-repeat center center;
     background-size: cover;
+    background-color: #0a0a0a;
 }
 
 .site-header:before {
