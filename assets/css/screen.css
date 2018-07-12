@@ -586,7 +586,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
     margin: 0 6px 1px;
 }
 .post-full-image {
-    margin: 0 -10vw -165px;
+    margin: -20px -24vw -251px;
     height: 800px;
     background: var(--lightgrey) center center;
     background-size: cover;
