@@ -585,7 +585,13 @@ The first (most recent) post in the list is styled to be bigger than the others 
     display: inline-block;
     margin: 0 6px 1px;
 }
-
+.post-full-image {
+    margin: 0 -10vw -165px;
+    height: 800px;
+    background: var(--lightgrey) center center;
+    background-size: cover;
+    border-radius: 5px;
+    }
 @media (max-width: 1170px) {
     .post-full-image {
         margin: 0 -4vw -100px;
