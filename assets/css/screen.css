@@ -71,7 +71,7 @@ body {
 /* Centered content container blocks */
 .inner {
     margin: 0 auto;
-    max-width: 1040px;
+    max-width: 1472px;
     width: 100%;
 }
 
@@ -669,7 +669,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 920px;
+    max-width: 1291px;
 }
 
 .post-full-content h1,
