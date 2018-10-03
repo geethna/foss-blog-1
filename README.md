@@ -1,5 +1,5 @@
 ## Introduction
-This is the platform for updating all our blogs from our Foss team members. Subscribe the website and get instant updates about the blogs and interesting topics.
+This is the platform for updating all the blogs from our Foss team members. Subscribe the website and get instant updates about the blogs and interesting topics.
 
 ## Features
 
